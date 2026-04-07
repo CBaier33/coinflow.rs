@@ -1,0 +1,17 @@
+# Rust build artifacts
+/target/
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+
+# Keep Cargo.lock tracked for this application crate.
